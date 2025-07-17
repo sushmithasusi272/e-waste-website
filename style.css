@@ -1,0 +1,46 @@
+body {
+  font-family: Arial;
+  background: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background: #02457a;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+nav {
+  background: #0468bf;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 40px;
+  text-align: center;
+  background-color: #d1ecf1;
+}
+
+.items {
+  padding: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
